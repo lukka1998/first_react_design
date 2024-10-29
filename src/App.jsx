@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import myImage from './assets/profile-pic.png';
 import './App.css'
-import Buttons from './buttons'
+import Buttons from './Buttons'
 function App() {
   return (
     <>
